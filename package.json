@@ -1,0 +1,17 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Note Taking App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Notes"
+  ],
+  "author": "Justin Roger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
